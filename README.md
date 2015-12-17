@@ -28,7 +28,6 @@ cc150或者其他来源的题，有阶梯训练系统，不用担心不知道从
 - [VisuAlgo](http://visualgo.net) - visualizing data structures and algorithms through animation - 相当碉堡的数据结构和算法可视化。
 - Data Structure Visualization - 同上，非常好的动画演示！！涵盖了常用的各种数
 据结构/排序/算法。
-程序员面试、算法研究、编程艺术、红黑树、数据挖掘5大系列集锦
 - POJ的部分题解 - Category: POJ | Beeder's Blog
 - 算法笔记——《算法设计与分析》 - CSDN上对《算法设计与分析》一书的学习
 笔记。
