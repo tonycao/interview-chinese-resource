@@ -8,7 +8,7 @@
 试题，适合你在面某个公司的时候专门去看一下。
 - [themianjing.com](http://themianjing.com) 面经网。应该是个人经营的一个积累面经的网站。面经来源主要是一
 亩三分地，mitbbs之类的地方。
-一亩三分地。
+- [一亩三分地](http://www.1point3acres.com/bbs/)。
 - [mitbbs.com](http://mitbbs.com)  jobhunting版。北美华人找工作必上。
 
 ## 在线OJ及部分题解
@@ -28,17 +28,18 @@ cc150或者其他来源的题，有阶梯训练系统，不用担心不知道从
 - [VisuAlgo](http://visualgo.net) - visualizing data structures and algorithms through animation - 相当碉堡的数据结构和算法可视化。
 - Data Structure Visualization - 同上，非常好的动画演示！！涵盖了常用的各种数
 据结构/排序/算法。
-- POJ的部分题解 - Category: POJ | Beeder's Blog
-- 算法笔记——《算法设计与分析》 - CSDN上对《算法设计与分析》一书的学习
+- [程序员面试、算法研究、编程艺术、红黑树、数据挖掘5大系列集锦](http://blog.csdn.net/v_july_v/article/details/6543438)
+- [POJ的部分题解 - Category: POJ | Beeder's Blog](http://beeder.me/categories/POJ/)
+- [算法笔记——《算法设计与分析》](http://blog.csdn.net/column/details/lf-algoritnote.html) - CSDN上对《算法设计与分析》一书的学习
 笔记。
-- 算法练习 | billryan - 恬不知耻地贴上了作为CS门外汉刷题的总结和笔记，求大神们
+- [算法练习 | billryan](http://algorithm.yuanbin.me/) - 恬不知耻地贴上了作为CS门外汉刷题的总结和笔记，求大神们
 轻拍
 
 ## 书籍推荐
 
 - [Algorithm Design](http://book.douban.com/subject/1475870/) (豆瓣)
-- The Algorithm Design Manual, 作者还放出了自己上课的视频和slides - Skiena's
-Audio Lectures，The Algorithm Design Manual (豆瓣)
+- [The Algorithm Design Manual](http://www.amazon.com/exec/obidos/ASIN/1848000693/thealgorithmrepo), 作者还放出了自己上课的视频和slides - [Skiena's
+Audio Lectures](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)，The Algorithm Design Manual (豆瓣)
 - 大部头有 Introduction to Algorithm 和 TAOCP
 - Cracking The Coding Interview. 著名的CC150，Google, Microsoft, LinkedIn 前HR
 离职之后写的书，从很全面的角度剖析了面试的各个环节和题目。之所以叫CC150就是有150道面试题，除了算法数据结构等题以外，还包含OO Design, Database, System Design, Brain Teaser等类型的题目。准备北美面试的同学一定要看。
