@@ -1,4 +1,4 @@
->**网站推荐**
+## 网站推荐
 
 - [GeeksforGeeks.org](http://GeeksforGeeks.org)  非常著名的漏题网站之一。上面会时不时的有各种公司的面试真
 题漏出。有一些题也会有解法分析。
@@ -11,7 +11,7 @@
 一亩三分地。
 - [mitbbs.com](http://mitbbs.com)  jobhunting版。北美华人找工作必上。
 
->**在线OJ及部分题解**
+## 在线OJ及部分题解
 
 - [LintCode](http://www.lintcode.com/en/problem/) - 专门提供面试题在线评测的OJ，筛选比较方便，还可以在source处选择
 cc150或者其他来源的题，有阶梯训练系统，不用担心不知道从哪儿开始刷题。目前会根据系统locale选择中文或者英文，评判时也比leetcode快，总之是比较赞啦。
@@ -22,7 +22,7 @@ cc150或者其他来源的题，有阶梯训练系统，不用担心不知道从
 - 九章算法LeetCode / LintCode 题解。上面的题解是专业老师提供的，代码质量很不错。
 - [水中的鱼](http://fisherlei.blogspot.com/) - 有很多LeetCode的题解。
 
->**论坛博客**
+## 论坛博客
 
 - [一亩三分地论坛](http://www.1point3acres.com/bbs/) - 时不时就会有惊喜放出。
 - [VisuAlgo](http://visualgo.net) - visualizing data structures and algorithms through animation - 相当碉堡的数据结构和算法可视化。
@@ -34,7 +34,7 @@ cc150或者其他来源的题，有阶梯训练系统，不用担心不知道从
 - 算法练习 | billryan - 恬不知耻地贴上了作为CS门外汉刷题的总结和笔记，求大神们
 轻拍
 
->**书籍推荐**
+## 书籍推荐
 
 - Algorithm Design (豆瓣)
 - The Algorithm Design Manual, 作者还放出了自己上课的视频和slides - Skiena's
