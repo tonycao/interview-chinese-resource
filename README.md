@@ -18,8 +18,8 @@ cc150或者其他来源的题，有阶梯训练系统，不用担心不知道从
 - [LeetCode Online Judge](https://leetcode.com/problemset/algorithms/) - 找工作方面非常出名的一个OJ，相应的题解非常多
 - [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - 含C++和Java两个版本的题解
 - **[Woodstock Blog](http://www.shuatiblog.com)** - IT，算法及面试。有知识点及类型题总结，特别赞
-- Acm之家,专业的ACM学习网站 - 各类题解
-- 九章算法LeetCode / LintCode 题解。上面的题解是专业老师提供的，代码质量很不错。
+- [Acm之家](http://www.acmerblog.com) - 专业的ACM学习网站 - 各类题解
+- [九章算法LeetCode / LintCode题解](http://www.jiuzhang.com) - 上面的题解是专业老师提供的，代码质量很不错。
 - [水中的鱼](http://fisherlei.blogspot.com/) - 有很多LeetCode的题解。
 
 ## 论坛博客
@@ -36,7 +36,7 @@ cc150或者其他来源的题，有阶梯训练系统，不用担心不知道从
 
 ## 书籍推荐
 
-- Algorithm Design (豆瓣)
+- [Algorithm Design](http://book.douban.com/subject/1475870/) (豆瓣)
 - The Algorithm Design Manual, 作者还放出了自己上课的视频和slides - Skiena's
 Audio Lectures，The Algorithm Design Manual (豆瓣)
 - 大部头有 Introduction to Algorithm 和 TAOCP
