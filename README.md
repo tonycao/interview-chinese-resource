@@ -1,15 +1,16 @@
 ## 网站推荐
 
-- [GeeksforGeeks.org](http://GeeksforGeeks.org)  非常著名的漏题网站之一。上面会时不时的有各种公司的面试真
+- [GeeksforGeeks.org](http://GeeksforGeeks.org) - 非常著名的漏题网站之一。上面会时不时的有各种公司的面试真
 题漏出。有一些题也会有解法分析。
-- [CareerCup.com](http://careercup.com) CC150作者搞的网站，也是著名的漏题网站之一。大家会在上面讨论各
+- [CareerCup.com](http://careercup.com) - CC150作者搞的网站，也是著名的漏题网站之一。大家会在上面讨论各
 个公司的面试题。
-- [Glassdoor.com](http://glassdoor.com) 一个给公司打分的网站，类似yelp的公司版。会有一些人在上面讨论面
+- [Glassdoor.com](http://glassdoor.com) - 一个给公司打分的网站，类似yelp的公司版。会有一些人在上面讨论面
 试题，适合你在面某个公司的时候专门去看一下。
-- [themianjing.com](http://themianjing.com) 面经网。应该是个人经营的一个积累面经的网站。面经来源主要是一
+- [themianjing.com](http://themianjing.com) - 面经网。应该是个人经营的一个积累面经的网站。面经来源主要是一
 亩三分地，mitbbs之类的地方。
-- [一亩三分地](http://www.1point3acres.com/bbs/)。
-- [mitbbs.com](http://mitbbs.com)  jobhunting版。北美华人找工作必上。
+- [一亩三分地](http://www.1point3acres.com/bbs/)
+- [mitbbs.com](http://mitbbs.com) - jobhunting版。北美华人找工作必上。
+
 
 ## 在线OJ及部分题解
 
@@ -23,6 +24,7 @@ cc150或者其他来源的题，有阶梯训练系统，不用担心不知道从
 - [Acm之家](http://www.acmerblog.com) - 专业的ACM学习网站 - 各类题解
 - [九章算法LeetCode / LintCode题解](http://www.jiuzhang.com) - 上面的题解是专业老师提供的，代码质量很不错。
 - [水中的鱼](http://fisherlei.blogspot.com/) - 有很多LeetCode的题解。
+- [tech::interview](http://www.fgdsb.com/) - not in leetcode
 
 ## 论坛博客
 
