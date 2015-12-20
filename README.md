@@ -17,6 +17,7 @@
 cc150或者其他来源的题，有阶梯训练系统，不用担心不知道从哪儿开始刷题。目前会根据系统locale选择中文或者英文，评判时也比leetcode快，总之是比较赞啦。
 - [LeetCode Online Judge](https://leetcode.com/problemset/algorithms/) - 找工作方面非常出名的一个OJ，相应的题解非常多
 - [William's Coding Book](http://wlcoding.blogspot.com/?view=sidebar) - Leetcode 题解
+- [Jianchao's Blog](http://www.cnblogs.com/jcliBlogger/) - Leetcode C++ 题解
 - [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - 含C++和Java两个版本的题解
 - **[Woodstock Blog](http://www.shuatiblog.com)** - IT，算法及面试。有知识点及类型题总结，特别赞
 - [Acm之家](http://www.acmerblog.com) - 专业的ACM学习网站 - 各类题解
