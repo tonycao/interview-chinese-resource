@@ -10,6 +10,7 @@
 亩三分地，mitbbs之类的地方。
 - [一亩三分地](http://www.1point3acres.com/bbs/)
 - [mitbbs.com](http://mitbbs.com) - jobhunting版。北美华人找工作必上。
+- [Coding 笔记 by Smilence](https://www.zybuluo.com/smilence/note/76)
 
 
 ## 在线OJ及部分题解
